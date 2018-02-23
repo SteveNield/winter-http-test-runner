@@ -1,0 +1,22 @@
+{
+  "name": "winter-http-test-runner",
+  "version": "1.0.1",
+  "description": "Clean interface for making HTTP method assertions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenield/winter-http-test-runner.git"
+  },
+  "author": "Steve Nield - Winter Softworks - steve@wintersoftworks.co.uk - http://stevenield@github.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenield/winter-http-test-runner/issues"
+  },
+  "homepage": "https://github.com/stevenield/winter-http-test-runner#readme",
+  "dependencies": {
+    "supertest": "^3.0.0"
+  }
+}
